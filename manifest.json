@@ -1,0 +1,18 @@
+{
+  "name": "Smart Buyer: Best Deal Finder",
+  "short_name": "Smart Buyer",
+  "description": "A Grade 8 financial literacy toolkit for smarter shopping decisions.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050806",
+  "theme_color": "#050806",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
